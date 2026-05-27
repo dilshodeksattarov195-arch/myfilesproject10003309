@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorstringify",
+        "uuid": 7746369,
+        "checksum": "qpiyay"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
